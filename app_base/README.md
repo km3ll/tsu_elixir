@@ -6,6 +6,7 @@
 elixir --version
 
 mix new app_base
+mix format
 mix test
 ```
 
