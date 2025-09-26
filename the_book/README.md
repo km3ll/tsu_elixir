@@ -3,16 +3,24 @@
 ## content
 
 ```
+the_book
+- c01 Getting started
+  - u01 Introduction
+  - u02 Basic types
 ```
 
 ## commands
 
 ```bash
 elixir --version
+elixir scripts/sample.exs
 
 mix new app_base
 mix format
 mix test
+
+# interactive elixir
+iex
 ```
 
 
