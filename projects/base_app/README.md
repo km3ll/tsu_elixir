@@ -1,13 +1,13 @@
-# app_base
+# base_app
 
 ## commands
 
 ```bash
 elixir --version
 
-mix new app_base
+mix new base_app
 mix format
-mix test
+mix test --trace
 ```
 
 ## reference
