@@ -1,6 +1,6 @@
 # tsu_elixir
 
-## current
+## projects
 
-- [app_base](app_base)
-- [the_book](the_book)
+- [base_app](projects/base_app)
+- [the_book](projects/the_book)

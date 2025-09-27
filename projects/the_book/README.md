@@ -17,7 +17,7 @@ elixir scripts/sample.exs
 
 mix new app_base
 mix format
-mix test
+mix test --trace
 
 # interactive elixir
 iex
